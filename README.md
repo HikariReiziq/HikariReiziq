@@ -1,3 +1,17 @@
+<!--
+████████████████████████████████████████████████████████████████████████████████
+██                                                                            ██
+██  🌟 GITHUB PROFILE README - HIKARIREIZIQ 🌟                                  ██
+██                                                                            ██
+██  Customize this profile by editing the sections below:                     ██
+██  • Header: Change text, colors, and animation                              ██
+██  • Badges: Update technologies and tools                                   ██
+██  • Social Links: Replace with your actual social media                     ██
+██  • Quote: Change the footer quote to your favorite                         ██
+██                                                                            ██
+████████████████████████████████████████████████████████████████████████████████
+-->
+
 <!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HikariReiziq&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Enthusiast%20%7C%20IT%20Student%20%7C%20Prototyper&descAlignY=51&descAlign=center" alt="Header Banner"/>
@@ -80,6 +94,7 @@
 </div>
 
 <!-- Connect With Me -->
+<!-- 📝 EDIT HERE: Replace these links with your actual social media profiles -->
 <div align="center">
   <h3>🤝 Connect With Me</h3>
   <p>
@@ -114,6 +129,7 @@
 </div>
 
 <!-- Footer -->
+<!-- 📝 EDIT HERE: Change the quote to your favorite inspirational quote -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
   
